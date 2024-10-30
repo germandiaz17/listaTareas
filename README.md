@@ -12,6 +12,8 @@ Esta es la prueba tecnica de listado de tareas Fullstack solicitada
 7)  en otra terminal ingresar a la carpeta de frontend y ejecutar (npm run dev) se desplegara el servidor
 8) ingresar a (http://localhost:3001/) tendra la aplicacion funcionando en local
 
+Nota: si algunos estilos no se cargan correctamente puede ser por el navergador, se recomienda volver a cargar la pagina.
+
 # Explicación Técnica del Desarrollo de la Aplicación de Tareas
 1. Estructura del Proyecto
 La aplicación se diseñó con una arquitectura dividida en dos partes principales: el frontend y el backend.
