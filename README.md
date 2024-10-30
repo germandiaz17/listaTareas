@@ -11,13 +11,13 @@ Esta es la prueba tecnica de listado de tareas Fullstack solicitada
 6) ingresar a la carpeta de frontend y ejecutar (npm run dev) se desplegara el servidor
 7) ingresar a (http://localhost:3001/) tendra la aplicacion funcionando en local
 
-#Explicación Técnica del Desarrollo de la Aplicación de Tareas
+# Explicación Técnica del Desarrollo de la Aplicación de Tareas
 1. Estructura del Proyecto
 La aplicación se diseñó con una arquitectura dividida en dos partes principales: el frontend y el backend.
 
 Frontend: Se desarrolló utilizando Next.js, un framework de React que permite crear aplicaciones web eficientes y optimizadas. Next.js ofrece características como el renderizado del lado del servidor (SSR) y la generación de sitios estáticos (SSG), lo que mejora el rendimiento y la optimización para SEO.
 
-Backend: Se implementó con Node.js y Express, que proporcionan un entorno ligero y escalable para manejar las operaciones del servidor. Se eligió este stack por su popularidad y su capacidad para trabajar eficientemente con JavaScript en ambas partes de la aplicación.
+Backend: Se implementó con Node.js y Express, que proporcionan un entorno ligero y escalable para manejar las operaciones del servidor.
 
 2. Manejo del Estado y Autenticación
 Se utilizó el localStorage para gestionar el token de acceso del usuario, permitiendo la autenticación persistente. Esta decisión se tomó para facilitar la experiencia del usuario, ya que el token permite mantener la sesión activa incluso si el usuario recarga la página.
